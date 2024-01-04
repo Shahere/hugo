@@ -63,13 +63,13 @@ paginate = 5
 	
     [languages.en.menu]
       [[languages.en.menu.main]]
-	identifier = "main"
-	name = "Main"
+	identifier = "Homepage"
+	name = "Homepage"
 	url = "/"
-      [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
+      #[[languages.en.menu.main]]
+      #  identifier = "about"
+      #  name = "About"
+      #  url = "/about"
       [[languages.en.menu.main]]
         identifier = "code"
         name = "Source Code"
