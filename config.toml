@@ -63,9 +63,9 @@ paginate = 5
 	
     [languages.en.menu]
       [[languages.en.menu.main]]
-	identifier = "Homepage"
-	name = "Homepage"
-	url = "/"
+	      identifier = "homepage"
+	      name = "Homepage"
+	      url = "/"
       #[[languages.en.menu.main]]
       #  identifier = "about"
       #  name = "About"
@@ -75,6 +75,6 @@ paginate = 5
         name = "Source Code"
         url = "https://github.com/Shahere/hugo"
       [[languages.en.menu.main]]
-        identifier = "cicd"
+        identifier = "project"
         name = "Project"
         url = "/project"
