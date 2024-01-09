@@ -21,3 +21,8 @@ For my 1st job in computer science, I was welcomed at the [DIRISI](https://www.d
 My goal was to develop an Django (Python) web appplication for ships, monitoring traffic
 
 >**Summer work**
+
+# Sailing instructor
+My first job was at the [Loguivy nautical club](https://www.polenautique.guingamp-paimpol-agglo.bzh/) as sailing instructor. 
+
+My role was to teach sailing to the youngest
