@@ -1,9 +1,25 @@
 version: '3'
 services:
-  server:
+  hufo-server:
     image: klakegg/hugo:latest
     command: server
     volumes:
-      - ".:/src"
+      - "../:/src"
+  
+  caddy:
+    image: caddy:latest
+    container_name: caddy
     ports:
-      - "1313:1313"
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./Caddyfile:/etc/caddy/Caddyfile
+      - caddy_data:/data
+      - caddy_config:/config
+    environment:
+      - CADDY_DOMAIN=savinienbarbotaud.fr
+    restart: unless-stopped
+
+volumes:
+  caddy_data:
+  caddy_config:
