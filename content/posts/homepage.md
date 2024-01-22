@@ -1,5 +1,5 @@
 +++
-title = "Savinien Barbotas"
+title = "Savinien Barbotaud"
 date = "2023-01-05"
 description = "Know me"
 +++
