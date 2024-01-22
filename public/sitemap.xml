@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>localhost:5500/posts/homepage/</loc>
+    <loc>http://149.202.41.170:8080/posts/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:5500/posts/</loc>
+    <loc>http://149.202.41.170:8080/posts/project/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:5500/posts/project/</loc>
+    <loc>http://149.202.41.170:8080/posts/homepage/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:5500/</loc>
+    <loc>http://149.202.41.170:8080/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:5500/posts/experience/</loc>
+    <loc>http://149.202.41.170:8080/posts/experience/</loc>
     <lastmod>2023-01-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>localhost:5500/categories/</loc>
+    <loc>http://149.202.41.170:8080/categories/</loc>
   </url><url>
-    <loc>localhost:5500/tags/</loc>
+    <loc>http://149.202.41.170:8080/tags/</loc>
   </url>
 </urlset>

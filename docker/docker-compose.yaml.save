@@ -1,3 +1,4 @@
+ls
 version: '3'
 services:
   hugo-server:
@@ -21,6 +22,11 @@ services:
       - caddy_config:/config
     environment:
       - ACME_AGREE=true
+      - CADDY_DOMAIN=savinienbarbotaud.fr
+      - OVH_DNS_API_KEY=af8eaa7e286286d0
+      - OVH_DNS_API_SECRET=0b0f96a922645504a463115ed54a2470
+      - OVH_DNS_API_CONSUMER_KEY=ab7e2c5803cf3464322f3d4b32aec999
+      - OVH_DNS_API_ENDPOINT=ovh-eu
     restart: unless-stopped
 
 volumes:

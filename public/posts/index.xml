@@ -2,48 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Savinien Barbotaud</title>
-    <link>localhost:5500/posts/</link>
+    <link>http://149.202.41.170:8080/posts/</link>
     <description>Recent content in Posts on Savinien Barbotaud</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="localhost:5500/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Home page</title>
-      <link>localhost:5500/posts/homepage/</link>
+      <title>Project</title>
+      <link>http://149.202.41.170:8080/posts/project/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost:5500/posts/homepage/</guid>
-      <description>Hi,
-I’m Savinien. I&amp;rsquo;m a an apprentice computer engineer at ENSSAT , in Lannion.
-Current focus on real-time communication developpement at Apizee.
-My Github personal repo: https://github.com/Shahere My Github professional repo: https://github.com/SavinienBarbotaud Not so active in social media. You can reach me at sbarbota@enssat.fr</description>
-      <content>&lt;p&gt;Hi,&lt;/p&gt;
-&lt;p&gt;I’m Savinien. I&amp;rsquo;m a an apprentice computer engineer at &lt;a href=&#34;https://www.enssat.fr&#34;&gt;ENSSAT&lt;/a&gt; , in Lannion.&lt;/p&gt;
-&lt;p&gt;Current focus on real-time communication developpement at Apizee.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;My Github personal repo: &lt;a href=&#34;https://github.com/Shahere&#34;&gt;https://github.com/Shahere&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;My Github professional repo: &lt;a href=&#34;https://github.com/SavinienBarbotaud&#34;&gt;https://github.com/SavinienBarbotaud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Not so active in social media. You can reach me at &lt;a href=&#34;mailto:sbarbota@enssat.fr&#34;&gt;sbarbota@enssat.fr&lt;/a&gt;&lt;/p&gt;
+      <guid>http://149.202.41.170:8080/posts/project/</guid>
+      <description>Other
+Openreplay contributor apiRTC with react-native Apizee React Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.
+An example is publish on github, and the library is avaible on NPM website
+Website
+Game
+Pac-man Pac-man game with java, See here !</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;Other&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;openreplay-contributor&#34;&gt;Openreplay contributor&lt;/h1&gt;
+&lt;h1 id=&#34;apirtc-with-react-native&#34;&gt;apiRTC with react-native&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Apizee&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;React&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/logo-apiRTC-light.webp&#34; alt=&#34;APIRTC logo&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/react.png&#34; alt=&#34;React logo&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.&lt;/p&gt;
+&lt;p&gt;An example is publish on &lt;a href=&#34;https://github.com/ApiRTC/reactNativeApiRTC&#34;&gt;github&lt;/a&gt;, and the library is avaible on &lt;a href=&#34;https://www.npmjs.com/package/@apirtc/react-native-apirtc&#34;&gt;NPM website&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Website&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Game&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h1 id=&#34;pac-man&#34;&gt;Pac-man&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/Pacman.png&#34; alt=&#34;Pac-man image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Pac-man game with java, &lt;a href=&#34;https://github.com/pagaro/Projet-G2-1-PAC-MAN&#34;&gt;See here&lt;/a&gt; !&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>Project</title>
-      <link>localhost:5500/posts/project/</link>
+      <title>Savinien Barbotas</title>
+      <link>http://149.202.41.170:8080/posts/homepage/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost:5500/posts/project/</guid>
-      <description></description>
-      <content></content>
+      <guid>http://149.202.41.170:8080/posts/homepage/</guid>
+      <description>Hi,
+I’m Savinien. I am an apprentice engineer in the IT field at ENSSAT, in Lannion.
+Currently focus on real-time communication developpement at Apizee.
+My Github personal repo: https://github.com/Shahere My Github professional repo: https://github.com/SavinienBarbotaud You can reach me at sbarbota@enssat.fr</description>
+      <content>&lt;p&gt;Hi,&lt;/p&gt;
+&lt;p&gt;I’m Savinien. I am an apprentice engineer in the IT field at &lt;a href=&#34;https://www.enssat.fr&#34;&gt;ENSSAT&lt;/a&gt;, in Lannion.&lt;/p&gt;
+&lt;p&gt;Currently focus on real-time communication developpement at &lt;a href=&#34;https://www.apizee.com&#34;&gt;Apizee&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My Github personal repo: &lt;a href=&#34;https://github.com/Shahere&#34;&gt;https://github.com/Shahere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;My Github professional repo: &lt;a href=&#34;https://github.com/SavinienBarbotaud&#34;&gt;https://github.com/SavinienBarbotaud&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can reach me at &lt;a href=&#34;mailto:sbarbota@enssat.fr&#34;&gt;sbarbota@enssat.fr&lt;/a&gt;&lt;/p&gt;
+</content>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>localhost:5500/posts/experience/</link>
+      <link>http://149.202.41.170:8080/posts/experience/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>localhost:5500/posts/experience/</guid>
+      <guid>http://149.202.41.170:8080/posts/experience/</guid>
       <description>Current work
 Apizee I&amp;rsquo;m currently working in co-op program at Apizee.
 My goal is to develop feature, and do intern support for the Javascript library ApiRTC.
@@ -67,6 +102,9 @@ My goal was to develop an Django (Python) web appplication for ships, monitoring
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Summer work&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h1 id=&#34;sailing-instructor&#34;&gt;Sailing instructor&lt;/h1&gt;
+&lt;p&gt;My first job was at the &lt;a href=&#34;https://www.polenautique.guingamp-paimpol-agglo.bzh/&#34;&gt;Loguivy nautical club&lt;/a&gt; as sailing instructor.&lt;/p&gt;
+&lt;p&gt;My role was to teach sailing to the youngest&lt;/p&gt;
 </content>
     </item>
     

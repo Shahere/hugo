@@ -1,4 +1,4 @@
-baseurl = ""
+baseurl = "http://149.202.41.170:8080"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
