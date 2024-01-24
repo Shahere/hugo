@@ -59,7 +59,7 @@ paginate = 5
 
     [languages.en.params.logo]
       logoText = "Savinien Barbotaud"
-      logoHomeLink = "/posts/homepage"
+      logoHomeLink = "/"
 	
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -78,3 +78,7 @@ paginate = 5
         identifier = "project"
         name = "Project"
         url = "/posts/project"
+      [[languages.en.menu.main]]
+        identifier = "CV"
+        name = "CV"
+        url = "/posts/CV"
