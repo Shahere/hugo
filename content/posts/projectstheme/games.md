@@ -6,6 +6,12 @@ description = "Know more about my game projects"
 
 **I loooove video-games and I like to get involved in projects that can serve the games community**
 
+# Jeu de pair
+
+Des chats, des avions, du java ? parfait.
+
+[![Javabien image](/img/miou.png)](/posts/projects/javabien/)
+
 # Pac-man
 
 [![Pac-man image](/img/Pacman.png)](/posts/projects/pacman/)
