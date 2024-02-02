@@ -10,12 +10,12 @@ description = "Know more about my game projects"
 
 Des chats, des avions, du java ? parfait.
 
-[![Javabien image](/img/miou.png)](/posts/projects/javabien/)
+[![Javabien image](/img/miou.png)](/projects/javabien/)
 
 # Pac-man
 
-[![Pac-man image](/img/Pacman.png)](/posts/projects/pacman/)
+[![Pac-man image](/img/Pacman.png)](/projects/pacman/)
 
 # Summoner war - Discord bot
 
-[![SW image image](/img/sw.jpeg)](/posts/projects/swdiscord/)
+[![SW image image](/img/sw.jpeg)](/projects/swdiscord/)

@@ -6,10 +6,10 @@ description = "Know more about my projects"
 
 Contributing to open-source project is a way to thanks them ♥️ 
 
-> [Other](/posts/projectstheme/other/)
+> [Other](/projectstheme/other/)
 
 
-> [Website](/posts/projectstheme/website/)
+> [Website](/projectstheme/website/)
 
 
-> [Game](/posts/projectstheme/games/)
+> [Game](/projectstheme/games/)
