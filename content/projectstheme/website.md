@@ -10,5 +10,5 @@ description = "Know more about my other projects"
 
 # Netyparneo
 
-[![netyparneo](/img/nety.png)](/posts/projects/netyparneo)
+[![netyparneo](/img/nety.png)](/projects/netyparneo)
 
