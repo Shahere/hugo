@@ -1,4 +1,4 @@
-baseurl = "http://149.202.41.170:8080"
+baseurl = "https://savinienbarbotaud.fr"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5

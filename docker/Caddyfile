@@ -7,6 +7,6 @@ savinienbarbotaud.fr {
     #        consumer_key ab7e2c5803cf3464322f3d4b32aec999
     #   }
     #}
-    reverse_proxy hugo-server:80
+    reverse_proxy hugo-server:443
 }
 
