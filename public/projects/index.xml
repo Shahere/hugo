@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Savinien Barbotaud</title>
+    <link>http://149.202.41.170:8080/projects/</link>
+    <description>Recent content in Projects on Savinien Barbotaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Netyparneo</title>
+      <link>http://149.202.41.170:8080/projects/netyparneo/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projects/netyparneo/</guid>
+      <description>Netyparneo Great project for ENSSAT ! Allowing university to manage their contracts with enterprises
+Get the source code and installation instruction here !</description>
+      <content>&lt;h1 id=&#34;netyparneo&#34;&gt;Netyparneo&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/nety.png&#34; alt=&#34;netyparneo&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Great project for ENSSAT ! Allowing university to manage their contracts with enterprises&lt;/p&gt;
+&lt;p&gt;Get the source code and installation instruction &lt;a href=&#34;https://gitlab.com/skewram/netyparneo&#34;&gt;here&lt;/a&gt; !&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Openreplay</title>
+      <link>http://149.202.41.170:8080/projects/openreplay/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projects/openreplay/</guid>
+      <description>Openreplay contributor Openreplay is a log and sessions replay solution.
+The self-hosted solution could not be installed locally, with the docker-compose method.
+I change the docker-compose method to allow local installation of openreplay.</description>
+      <content>&lt;h1 id=&#34;openreplay-contributor&#34;&gt;Openreplay contributor&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/openreplay.png&#34; alt=&#34;Openreplay LOGO&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://openreplay.com&#34;&gt;Openreplay&lt;/a&gt; is a log and sessions replay solution.&lt;/p&gt;
+&lt;p&gt;The self-hosted solution &lt;strong&gt;could not be installed locally&lt;/strong&gt;, with the docker-compose method.&lt;/p&gt;
+&lt;p&gt;I change the docker-compose method to &lt;strong&gt;allow local installation&lt;/strong&gt; of openreplay.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Pac-man</title>
+      <link>http://149.202.41.170:8080/projects/pacman/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projects/pacman/</guid>
+      <description>Pac-man Pac-man game with java, See here !</description>
+      <content>&lt;h1 id=&#34;pac-man&#34;&gt;Pac-man&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/Pacman.png&#34; alt=&#34;Pac-man image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Pac-man game with java, &lt;a href=&#34;https://github.com/pagaro/Projet-G2-1-PAC-MAN&#34;&gt;See here&lt;/a&gt; !&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Project - Javabien</title>
+      <link>http://149.202.41.170:8080/projects/javabien/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projects/javabien/</guid>
+      <description>Javabien Java memory game !
+turn over more cards than your opponent and win the game.
+Themes : Cats and airplane (All what I love).
+The source code is avaible here !</description>
+      <content>&lt;h1 id=&#34;javabien&#34;&gt;Javabien&lt;/h1&gt;
+&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/miou.png&#34; alt=&#34;Javabien image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Java memory game !&lt;/p&gt;
+&lt;p&gt;turn over more cards than your opponent and win the game.&lt;/p&gt;
+&lt;p&gt;Themes : Cats and airplane (All what I love).&lt;/p&gt;
+&lt;p&gt;The source code is avaible &lt;a href=&#34;https://gitlab.com/savinienbarbotaud/javabien&#34;&gt;here&lt;/a&gt; !&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>React Native</title>
+      <link>http://149.202.41.170:8080/projects/reactnative/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projects/reactnative/</guid>
+      <description>Apizee React Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.
+An example is publish on github, and the library is avaible on NPM website</description>
+      <content>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;Apizee&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;React&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/logo-apiRTC-light.webp&#34; alt=&#34;APIRTC logo&#34;&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/react.png&#34; alt=&#34;React logo&#34;&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.&lt;/p&gt;
+&lt;p&gt;An example is publish on &lt;a href=&#34;https://github.com/ApiRTC/reactNativeApiRTC&#34;&gt;github&lt;/a&gt;, and the library is avaible on &lt;a href=&#34;https://www.npmjs.com/package/@apirtc/react-native-apirtc&#34;&gt;NPM website&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>SW Discord</title>
+      <link>http://149.202.41.170:8080/projects/swdiscord/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projects/swdiscord/</guid>
+      <description>Summoner war - Discord bot The bot I created is used to analyze a Summoner war game mode.
+He provide stats, when a user provide a specific JSON file.
+The code is available on github.</description>
+      <content>&lt;h1 id=&#34;summoner-war---discord-bot&#34;&gt;Summoner war - Discord bot&lt;/h1&gt;
+&lt;p&gt;The bot I created is used to analyze a Summoner war game mode.&lt;/p&gt;
+&lt;p&gt;He provide stats, when a user provide a specific &lt;a href=&#34;https://github.com/Shahere/SWSiegeDiscord/blob/main/SiegeMatch3.json&#34;&gt;JSON file&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The code is available on &lt;a href=&#34;https://github.com/Shahere/SWSiegeDiscord&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

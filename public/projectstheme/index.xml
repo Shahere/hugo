@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projectsthemes on Savinien Barbotaud</title>
+    <link>http://149.202.41.170:8080/projectstheme/</link>
+    <description>Recent content in Projectsthemes on Savinien Barbotaud</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/projectstheme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project - Games</title>
+      <link>http://149.202.41.170:8080/projectstheme/games/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projectstheme/games/</guid>
+      <description>I loooove video-games and I like to get involved in projects that can serve the games community
+Jeu de pair Des chats, des avions, du java ? parfait.
+Pac-man Summoner war - Discord bot </description>
+      <content>&lt;p&gt;&lt;strong&gt;I loooove video-games and I like to get involved in projects that can serve the games community&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;jeu-de-pair&#34;&gt;Jeu de pair&lt;/h1&gt;
+&lt;p&gt;Des chats, des avions, du java ? parfait.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/javabien/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/miou.png&#34; alt=&#34;Javabien image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;pac-man&#34;&gt;Pac-man&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/pacman/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/Pacman.png&#34; alt=&#34;Pac-man image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;summoner-war---discord-bot&#34;&gt;Summoner war - Discord bot&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/swdiscord/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/sw.jpeg&#34; alt=&#34;SW image image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Project - Other</title>
+      <link>http://149.202.41.170:8080/projectstheme/other/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projectstheme/other/</guid>
+      <description>Openreplay contributor apiRTC with react-native Apizee React </description>
+      <content>&lt;h1 id=&#34;openreplay-contributor&#34;&gt;Openreplay contributor&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/openreplay/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/openreplay.png&#34; alt=&#34;Openreplay LOGO&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;apirtc-with-react-native&#34;&gt;apiRTC with react-native&lt;/h1&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;Apizee&lt;/a&gt;&lt;/th&gt;
+&lt;th style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;React&lt;/a&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/logo-apiRTC-light.webp&#34; alt=&#34;APIRTC logo&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/react.png&#34; alt=&#34;React logo&#34;&gt;&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Project - Other</title>
+      <link>http://149.202.41.170:8080/projectstheme/website/</link>
+      <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/projectstheme/website/</guid>
+      <description>This website Check the souce code !
+Netyparneo </description>
+      <content>&lt;h1 id=&#34;this-website&#34;&gt;This website&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/Shahere/hugo&#34;&gt;Check the souce code !&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;netyparneo&#34;&gt;Netyparneo&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/netyparneo&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/nety.png&#34; alt=&#34;netyparneo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

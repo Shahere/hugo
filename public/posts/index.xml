@@ -6,54 +6,43 @@
     <description>Recent content in Posts on Savinien Barbotaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 05 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>http://149.202.41.170:8080/posts/cv/</link>
+      <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://149.202.41.170:8080/posts/cv/</guid>
+      <description></description>
+      <content>&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/document/CV_Savinien_Barbotaud.pdf&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/CV.png&#34; alt=&#34;CV !&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Project</title>
       <link>http://149.202.41.170:8080/posts/project/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
       <guid>http://149.202.41.170:8080/posts/project/</guid>
-      <description>Other
-Openreplay contributor apiRTC with react-native Apizee React Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.
-An example is publish on github, and the library is avaible on NPM website
+      <description>Contributing to open-source project is a way to thanks them ♥️
+Other
 Website
-Game
-Pac-man Pac-man game with java, See here !</description>
-      <content>&lt;blockquote&gt;
-&lt;p&gt;Other&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;openreplay-contributor&#34;&gt;Openreplay contributor&lt;/h1&gt;
-&lt;h1 id=&#34;apirtc-with-react-native&#34;&gt;apiRTC with react-native&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Apizee&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;React&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/logo-apiRTC-light.webp&#34; alt=&#34;APIRTC logo&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/react.png&#34; alt=&#34;React logo&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.&lt;/p&gt;
-&lt;p&gt;An example is publish on &lt;a href=&#34;https://github.com/ApiRTC/reactNativeApiRTC&#34;&gt;github&lt;/a&gt;, and the library is avaible on &lt;a href=&#34;https://www.npmjs.com/package/@apirtc/react-native-apirtc&#34;&gt;NPM website&lt;/a&gt;&lt;/p&gt;
+Game</description>
+      <content>&lt;p&gt;Contributing to open-source project is a way to thanks them ♥️&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Website&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/other/&#34;&gt;Other&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Game&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/website/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h1 id=&#34;pac-man&#34;&gt;Pac-man&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/Pacman.png&#34; alt=&#34;Pac-man image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Pac-man game with java, &lt;a href=&#34;https://github.com/pagaro/Projet-G2-1-PAC-MAN&#34;&gt;See here&lt;/a&gt; !&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/games/&#34;&gt;Game&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 </content>
     </item>
     
     <item>
-      <title>Savinien Barbotas</title>
+      <title>Savinien Barbotaud</title>
       <link>http://149.202.41.170:8080/posts/homepage/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
@@ -81,17 +70,16 @@ My Github personal repo: https://github.com/Shahere My Github professional repo:
       <guid>http://149.202.41.170:8080/posts/experience/</guid>
       <description>Current work
 Apizee I&amp;rsquo;m currently working in co-op program at Apizee.
-My goal is to develop feature, and do intern support for the Javascript library ApiRTC.
-At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;
-Previous work
-DIRISI For my 1st job in computer science, I was welcomed at the DIRISI&amp;rsquo;s french army branch.
-My goal was to develop an Django (Python) web appplication for ships, monitoring traffic</description>
+My goal is to develop features, and do intern support for the Javascript library ApiRTC.
+After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to Flutter and react-native, and install openreplay to help Apizee&amp;rsquo;s support.git pi
+At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;</description>
       <content>&lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Current work&lt;/strong&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h1 id=&#34;apizee&#34;&gt;Apizee&lt;/h1&gt;
 &lt;p&gt;I&amp;rsquo;m currently working in co-op program at &lt;a href=&#34;https://www.apizee.com&#34;&gt;Apizee&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My goal is to develop feature, and do intern support for the Javascript library &lt;a href=&#34;https://www.apirtc.com&#34;&gt;ApiRTC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;My goal is to develop features, and do intern support for the Javascript library &lt;a href=&#34;https://www.apirtc.com&#34;&gt;ApiRTC&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to &lt;strong&gt;Flutter&lt;/strong&gt; and &lt;strong&gt;react-native&lt;/strong&gt;, and install openreplay to help Apizee&amp;rsquo;s support.git pi&lt;/p&gt;
 &lt;p&gt;At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;&lt;/p&gt;
