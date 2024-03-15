@@ -2,267 +2,154 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Savinien Barbotaud</title>
-    <link>http://149.202.41.170:8080/</link>
+    <link>https://savinienbarbotaud.fr/</link>
     <description>Recent content on Savinien Barbotaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://savinienbarbotaud.fr/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>http://149.202.41.170:8080/posts/cv/</link>
+      <link>https://savinienbarbotaud.fr/posts/cv/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/cv/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/cv/</guid>
       <description></description>
-      <content>&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/document/CV_Savinien_Barbotaud.pdf&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/CV.png&#34; alt=&#34;CV !&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Netyparneo</title>
-      <link>http://149.202.41.170:8080/projects/netyparneo/</link>
+      <link>https://savinienbarbotaud.fr/projects/netyparneo/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projects/netyparneo/</guid>
+      <guid>https://savinienbarbotaud.fr/projects/netyparneo/</guid>
       <description>Netyparneo Great project for ENSSAT ! Allowing university to manage their contracts with enterprises
 Get the source code and installation instruction here !</description>
-      <content>&lt;h1 id=&#34;netyparneo&#34;&gt;Netyparneo&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/nety.png&#34; alt=&#34;netyparneo&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Great project for ENSSAT ! Allowing university to manage their contracts with enterprises&lt;/p&gt;
-&lt;p&gt;Get the source code and installation instruction &lt;a href=&#34;https://gitlab.com/skewram/netyparneo&#34;&gt;here&lt;/a&gt; !&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Openreplay</title>
-      <link>http://149.202.41.170:8080/projects/openreplay/</link>
+      <link>https://savinienbarbotaud.fr/projects/openreplay/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projects/openreplay/</guid>
+      <guid>https://savinienbarbotaud.fr/projects/openreplay/</guid>
       <description>Openreplay contributor Openreplay is a log and sessions replay solution.
 The self-hosted solution could not be installed locally, with the docker-compose method.
 I change the docker-compose method to allow local installation of openreplay.</description>
-      <content>&lt;h1 id=&#34;openreplay-contributor&#34;&gt;Openreplay contributor&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/openreplay.png&#34; alt=&#34;Openreplay LOGO&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://openreplay.com&#34;&gt;Openreplay&lt;/a&gt; is a log and sessions replay solution.&lt;/p&gt;
-&lt;p&gt;The self-hosted solution &lt;strong&gt;could not be installed locally&lt;/strong&gt;, with the docker-compose method.&lt;/p&gt;
-&lt;p&gt;I change the docker-compose method to &lt;strong&gt;allow local installation&lt;/strong&gt; of openreplay.&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Pac-man</title>
-      <link>http://149.202.41.170:8080/projects/pacman/</link>
+      <link>https://savinienbarbotaud.fr/projects/pacman/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projects/pacman/</guid>
+      <guid>https://savinienbarbotaud.fr/projects/pacman/</guid>
       <description>Pac-man Pac-man game with java, See here !</description>
-      <content>&lt;h1 id=&#34;pac-man&#34;&gt;Pac-man&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/Pacman.png&#34; alt=&#34;Pac-man image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Pac-man game with java, &lt;a href=&#34;https://github.com/pagaro/Projet-G2-1-PAC-MAN&#34;&gt;See here&lt;/a&gt; !&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://149.202.41.170:8080/posts/project/</link>
+      <link>https://savinienbarbotaud.fr/posts/project/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/project/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/project/</guid>
       <description>Contributing to open-source project is a way to thanks them ♥️
-Other
-Website
-Game</description>
-      <content>&lt;p&gt;Contributing to open-source project is a way to thanks them ♥️&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/other/&#34;&gt;Other&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/website/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/games/&#34;&gt;Game&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
+ Other
+  Website
+  Game
+ </description>
     </item>
     
     <item>
       <title>Project - Games</title>
-      <link>http://149.202.41.170:8080/projectstheme/games/</link>
+      <link>https://savinienbarbotaud.fr/projectstheme/games/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projectstheme/games/</guid>
+      <guid>https://savinienbarbotaud.fr/projectstheme/games/</guid>
       <description>I loooove video-games and I like to get involved in projects that can serve the games community
 Jeu de pair Des chats, des avions, du java ? parfait.
-Pac-man Summoner war - Discord bot </description>
-      <content>&lt;p&gt;&lt;strong&gt;I loooove video-games and I like to get involved in projects that can serve the games community&lt;/strong&gt;&lt;/p&gt;
-&lt;h1 id=&#34;jeu-de-pair&#34;&gt;Jeu de pair&lt;/h1&gt;
-&lt;p&gt;Des chats, des avions, du java ? parfait.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/javabien/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/miou.png&#34; alt=&#34;Javabien image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;pac-man&#34;&gt;Pac-man&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/pacman/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/Pacman.png&#34; alt=&#34;Pac-man image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;summoner-war---discord-bot&#34;&gt;Summoner war - Discord bot&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/swdiscord/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/sw.jpeg&#34; alt=&#34;SW image image&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
+
+Pac-man 
+Summoner war - Discord bot</description>
     </item>
     
     <item>
       <title>Project - Javabien</title>
-      <link>http://149.202.41.170:8080/projects/javabien/</link>
+      <link>https://savinienbarbotaud.fr/projects/javabien/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projects/javabien/</guid>
+      <guid>https://savinienbarbotaud.fr/projects/javabien/</guid>
       <description>Javabien Java memory game !
 turn over more cards than your opponent and win the game.
 Themes : Cats and airplane (All what I love).
 The source code is avaible here !</description>
-      <content>&lt;h1 id=&#34;javabien&#34;&gt;Javabien&lt;/h1&gt;
-&lt;p&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/miou.png&#34; alt=&#34;Javabien image&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Java memory game !&lt;/p&gt;
-&lt;p&gt;turn over more cards than your opponent and win the game.&lt;/p&gt;
-&lt;p&gt;Themes : Cats and airplane (All what I love).&lt;/p&gt;
-&lt;p&gt;The source code is avaible &lt;a href=&#34;https://gitlab.com/savinienbarbotaud/javabien&#34;&gt;here&lt;/a&gt; !&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Project - Other</title>
-      <link>http://149.202.41.170:8080/projectstheme/other/</link>
+      <link>https://savinienbarbotaud.fr/projectstheme/other/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projectstheme/other/</guid>
-      <description>Openreplay contributor apiRTC with react-native Apizee React </description>
-      <content>&lt;h1 id=&#34;openreplay-contributor&#34;&gt;Openreplay contributor&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/openreplay/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/openreplay.png&#34; alt=&#34;Openreplay LOGO&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;apirtc-with-react-native&#34;&gt;apiRTC with react-native&lt;/h1&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;Apizee&lt;/a&gt;&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;React&lt;/a&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/logo-apiRTC-light.webp&#34; alt=&#34;APIRTC logo&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/reactnative/&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/react.png&#34; alt=&#34;React logo&#34;&gt;&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</content>
+      <guid>https://savinienbarbotaud.fr/projectstheme/other/</guid>
+      <description>Openreplay contributor 
+apiRTC with react-native    Apizee React          </description>
     </item>
     
     <item>
       <title>Project - Other</title>
-      <link>http://149.202.41.170:8080/projectstheme/website/</link>
+      <link>https://savinienbarbotaud.fr/projectstheme/website/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projectstheme/website/</guid>
+      <guid>https://savinienbarbotaud.fr/projectstheme/website/</guid>
       <description>This website Check the souce code !
-Netyparneo </description>
-      <content>&lt;h1 id=&#34;this-website&#34;&gt;This website&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/Shahere/hugo&#34;&gt;Check the souce code !&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&#34;netyparneo&#34;&gt;Netyparneo&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projects/netyparneo&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/nety.png&#34; alt=&#34;netyparneo&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
+Netyparneo</description>
     </item>
     
     <item>
       <title>React Native</title>
-      <link>http://149.202.41.170:8080/projects/reactnative/</link>
+      <link>https://savinienbarbotaud.fr/projects/reactnative/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projects/reactnative/</guid>
-      <description>Apizee React Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.
+      <guid>https://savinienbarbotaud.fr/projects/reactnative/</guid>
+      <description>Apizee React          Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.
 An example is publish on github, and the library is avaible on NPM website</description>
-      <content>&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;Apizee&lt;/th&gt;
-&lt;th style=&#34;text-align:center&#34;&gt;React&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/logo-apiRTC-light.webp&#34; alt=&#34;APIRTC logo&#34;&gt;&lt;/td&gt;
-&lt;td style=&#34;text-align:center&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/react.png&#34; alt=&#34;React logo&#34;&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Apirtc is a browser JS library, with Apizee, the goal was to adapt this library to Android ans iOS technologies.&lt;/p&gt;
-&lt;p&gt;An example is publish on &lt;a href=&#34;https://github.com/ApiRTC/reactNativeApiRTC&#34;&gt;github&lt;/a&gt;, and the library is avaible on &lt;a href=&#34;https://www.npmjs.com/package/@apirtc/react-native-apirtc&#34;&gt;NPM website&lt;/a&gt;&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Savinien Barbotaud</title>
-      <link>http://149.202.41.170:8080/posts/homepage/</link>
+      <link>https://savinienbarbotaud.fr/posts/homepage/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/homepage/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/homepage/</guid>
       <description>Hi,
-I’m Savinien. I am an apprentice engineer in the IT field at ENSSAT, in Lannion.
-Currently focus on real-time communication developpement at Apizee.
-My Github personal repo: https://github.com/Shahere My Github professional repo: https://github.com/SavinienBarbotaud You can reach me at sbarbota@enssat.fr</description>
-      <content>&lt;p&gt;Hi,&lt;/p&gt;
-&lt;p&gt;I’m Savinien. I am an apprentice engineer in the IT field at &lt;a href=&#34;https://www.enssat.fr&#34;&gt;ENSSAT&lt;/a&gt;, in Lannion.&lt;/p&gt;
-&lt;p&gt;Currently focus on real-time communication developpement at &lt;a href=&#34;https://www.apizee.com&#34;&gt;Apizee&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;My Github personal repo: &lt;a href=&#34;https://github.com/Shahere&#34;&gt;https://github.com/Shahere&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;My Github professional repo: &lt;a href=&#34;https://github.com/SavinienBarbotaud&#34;&gt;https://github.com/SavinienBarbotaud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can reach me at &lt;a href=&#34;mailto:sbarbota@enssat.fr&#34;&gt;sbarbota@enssat.fr&lt;/a&gt;&lt;/p&gt;
-</content>
+I’m Savinien !
+I am an apprentice engineer in the IT field at ENSSAT, in Lannion where I am expected to graduate in 2025.
+I am always looking for new things to learn and give. Development, cyber security, system or network administration are topics on which my internship can focus, and I&amp;rsquo;m interested in.
+Currently focus on real-time communication developpement at Apizee through a work-study program.
+ My Github personal repo: https://github.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://149.202.41.170:8080/posts/experience/</link>
+      <link>https://savinienbarbotaud.fr/posts/experience/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/experience/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/experience/</guid>
       <description>Current work
-Apizee I&amp;rsquo;m currently working in co-op program at Apizee.
+ Apizee I&amp;rsquo;m currently working in co-op program at Apizee.
 My goal is to develop features, and do intern support for the Javascript library ApiRTC.
-After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to Flutter and react-native, and install openreplay to help Apizee&amp;rsquo;s support.git pi
+After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to Flutter and react-native, and install openreplay to help Apizee&amp;rsquo;s support.
 At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;</description>
-      <content>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Current work&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;apizee&#34;&gt;Apizee&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m currently working in co-op program at &lt;a href=&#34;https://www.apizee.com&#34;&gt;Apizee&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My goal is to develop features, and do intern support for the Javascript library &lt;a href=&#34;https://www.apirtc.com&#34;&gt;ApiRTC&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to &lt;strong&gt;Flutter&lt;/strong&gt; and &lt;strong&gt;react-native&lt;/strong&gt;, and install openreplay to help Apizee&amp;rsquo;s support.git pi&lt;/p&gt;
-&lt;p&gt;At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;dirisi&#34;&gt;DIRISI&lt;/h1&gt;
-&lt;p&gt;For my 1st job in computer science, I was welcomed at the &lt;a href=&#34;https://www.defense.gouv.fr/dirisi&#34;&gt;DIRISI&lt;/a&gt;&amp;rsquo;s french army branch.&lt;/p&gt;
-&lt;p&gt;My goal was to develop an Django (Python) web appplication for ships, monitoring traffic&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Summer work&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;sailing-instructor&#34;&gt;Sailing instructor&lt;/h1&gt;
-&lt;p&gt;My first job was at the &lt;a href=&#34;https://www.polenautique.guingamp-paimpol-agglo.bzh/&#34;&gt;Loguivy nautical club&lt;/a&gt; as sailing instructor.&lt;/p&gt;
-&lt;p&gt;My role was to teach sailing to the youngest&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>SW Discord</title>
-      <link>http://149.202.41.170:8080/projects/swdiscord/</link>
+      <link>https://savinienbarbotaud.fr/projects/swdiscord/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/projects/swdiscord/</guid>
+      <guid>https://savinienbarbotaud.fr/projects/swdiscord/</guid>
       <description>Summoner war - Discord bot The bot I created is used to analyze a Summoner war game mode.
 He provide stats, when a user provide a specific JSON file.
 The code is available on github.</description>
-      <content>&lt;h1 id=&#34;summoner-war---discord-bot&#34;&gt;Summoner war - Discord bot&lt;/h1&gt;
-&lt;p&gt;The bot I created is used to analyze a Summoner war game mode.&lt;/p&gt;
-&lt;p&gt;He provide stats, when a user provide a specific &lt;a href=&#34;https://github.com/Shahere/SWSiegeDiscord/blob/main/SiegeMatch3.json&#34;&gt;JSON file&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;The code is available on &lt;a href=&#34;https://github.com/Shahere/SWSiegeDiscord&#34;&gt;github&lt;/a&gt;.&lt;/p&gt;
-</content>
     </item>
     
   </channel>

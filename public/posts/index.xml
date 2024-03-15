@@ -2,98 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Savinien Barbotaud</title>
-    <link>http://149.202.41.170:8080/posts/</link>
+    <link>https://savinienbarbotaud.fr/posts/</link>
     <description>Recent content in Posts on Savinien Barbotaud</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://149.202.41.170:8080/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://savinienbarbotaud.fr/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CV</title>
-      <link>http://149.202.41.170:8080/posts/cv/</link>
+      <link>https://savinienbarbotaud.fr/posts/cv/</link>
       <pubDate>Wed, 24 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/cv/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/cv/</guid>
       <description></description>
-      <content>&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/document/CV_Savinien_Barbotaud.pdf&#34;&gt;&lt;img src=&#34;http://149.202.41.170:8080/img/CV.png&#34; alt=&#34;CV !&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-</content>
     </item>
     
     <item>
       <title>Project</title>
-      <link>http://149.202.41.170:8080/posts/project/</link>
+      <link>https://savinienbarbotaud.fr/posts/project/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/project/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/project/</guid>
       <description>Contributing to open-source project is a way to thanks them ♥️
-Other
-Website
-Game</description>
-      <content>&lt;p&gt;Contributing to open-source project is a way to thanks them ♥️&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/other/&#34;&gt;Other&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/website/&#34;&gt;Website&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://149.202.41.170:8080/projectstheme/games/&#34;&gt;Game&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
+ Other
+  Website
+  Game
+ </description>
     </item>
     
     <item>
       <title>Savinien Barbotaud</title>
-      <link>http://149.202.41.170:8080/posts/homepage/</link>
+      <link>https://savinienbarbotaud.fr/posts/homepage/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/homepage/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/homepage/</guid>
       <description>Hi,
-I’m Savinien. I am an apprentice engineer in the IT field at ENSSAT, in Lannion.
-Currently focus on real-time communication developpement at Apizee.
-My Github personal repo: https://github.com/Shahere My Github professional repo: https://github.com/SavinienBarbotaud You can reach me at sbarbota@enssat.fr</description>
-      <content>&lt;p&gt;Hi,&lt;/p&gt;
-&lt;p&gt;I’m Savinien. I am an apprentice engineer in the IT field at &lt;a href=&#34;https://www.enssat.fr&#34;&gt;ENSSAT&lt;/a&gt;, in Lannion.&lt;/p&gt;
-&lt;p&gt;Currently focus on real-time communication developpement at &lt;a href=&#34;https://www.apizee.com&#34;&gt;Apizee&lt;/a&gt;.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;My Github personal repo: &lt;a href=&#34;https://github.com/Shahere&#34;&gt;https://github.com/Shahere&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;My Github professional repo: &lt;a href=&#34;https://github.com/SavinienBarbotaud&#34;&gt;https://github.com/SavinienBarbotaud&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;You can reach me at &lt;a href=&#34;mailto:sbarbota@enssat.fr&#34;&gt;sbarbota@enssat.fr&lt;/a&gt;&lt;/p&gt;
-</content>
+I’m Savinien !
+I am an apprentice engineer in the IT field at ENSSAT, in Lannion where I am expected to graduate in 2025.
+I am always looking for new things to learn and give. Development, cyber security, system or network administration are topics on which my internship can focus, and I&amp;rsquo;m interested in.
+Currently focus on real-time communication developpement at Apizee through a work-study program.
+ My Github personal repo: https://github.</description>
     </item>
     
     <item>
       <title>Skills</title>
-      <link>http://149.202.41.170:8080/posts/experience/</link>
+      <link>https://savinienbarbotaud.fr/posts/experience/</link>
       <pubDate>Thu, 05 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>http://149.202.41.170:8080/posts/experience/</guid>
+      <guid>https://savinienbarbotaud.fr/posts/experience/</guid>
       <description>Current work
-Apizee I&amp;rsquo;m currently working in co-op program at Apizee.
+ Apizee I&amp;rsquo;m currently working in co-op program at Apizee.
 My goal is to develop features, and do intern support for the Javascript library ApiRTC.
-After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to Flutter and react-native, and install openreplay to help Apizee&amp;rsquo;s support.git pi
+After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to Flutter and react-native, and install openreplay to help Apizee&amp;rsquo;s support.
 At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;</description>
-      <content>&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Current work&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;apizee&#34;&gt;Apizee&lt;/h1&gt;
-&lt;p&gt;I&amp;rsquo;m currently working in co-op program at &lt;a href=&#34;https://www.apizee.com&#34;&gt;Apizee&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;My goal is to develop features, and do intern support for the Javascript library &lt;a href=&#34;https://www.apirtc.com&#34;&gt;ApiRTC&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;After 1 year at Apizee, I&amp;rsquo;m proud to contributing to the compagny. I achieve some internals security features, translate apiRTC to &lt;strong&gt;Flutter&lt;/strong&gt; and &lt;strong&gt;react-native&lt;/strong&gt;, and install openreplay to help Apizee&amp;rsquo;s support.git pi&lt;/p&gt;
-&lt;p&gt;At Apizee, I have progressed in a lot of computer science area, Docker, Kubernetes, network management, operating system management&amp;hellip;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Previous work&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;dirisi&#34;&gt;DIRISI&lt;/h1&gt;
-&lt;p&gt;For my 1st job in computer science, I was welcomed at the &lt;a href=&#34;https://www.defense.gouv.fr/dirisi&#34;&gt;DIRISI&lt;/a&gt;&amp;rsquo;s french army branch.&lt;/p&gt;
-&lt;p&gt;My goal was to develop an Django (Python) web appplication for ships, monitoring traffic&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Summer work&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h1 id=&#34;sailing-instructor&#34;&gt;Sailing instructor&lt;/h1&gt;
-&lt;p&gt;My first job was at the &lt;a href=&#34;https://www.polenautique.guingamp-paimpol-agglo.bzh/&#34;&gt;Loguivy nautical club&lt;/a&gt; as sailing instructor.&lt;/p&gt;
-&lt;p&gt;My role was to teach sailing to the youngest&lt;/p&gt;
-</content>
     </item>
     
   </channel>
