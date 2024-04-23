@@ -1,0 +1,42 @@
++++
+title = "Project - Big Data"
+date = "2024-04-23"
+description = "Big data"
++++
+<link rel="stylesheet" href="life.css">
+<div id="gridContainer">
+
+</div>
+
+<div class="controls">
+    <button id="start" class="control"><span>Start</span></button>
+    <button id="clear" class="control"><span>Clear</span></button>
+    <button id="random" class="control"><span>Random</span></button>
+    <div class="gameSpeed">
+        <input type="range" id="speed" max="500" min="1" name="Game speed" oninput="onRangeChange(this.value)">
+        <div class="gameSpeedDiv">
+            <label for="labelSpeed" class="labelSpeed">Game speed : </label>
+            <p id="actualGameSpeed" class="actualGameSpeed"></p>
+        </div>
+    </div>
+
+    <div class="figures">
+        <p class="w">Explorer les figures pensées par les créateurs</p>
+        <button class="glider control" id="glider"><span>Glider</span></button>
+        <button class="spaceship control" id="spaceship"><span>Spaceship</span></button>
+    </div>
+</div>
+
+<div class="explication">
+    <h1>Le jeu de la vie de Conway et le Big Data</h1>
+    <p>Mon monde à moi est composé de cellules. Noirs ou blanches, 1 ou 0, mortes ou vivantes...</p>
+    <p>le Big Data alimente la compréhension des systèmes complexes et vivants.</p>
+    <p>Au final, serions nous là sans le Big Data ?</p>
+</div>
+
+<script>
+    function onRangeChange(value) {
+        document.getElementById("actualGameSpeed").innerHTML = value + " ms";
+    }
+</script>
+<script src="code.js" type="module"></script>

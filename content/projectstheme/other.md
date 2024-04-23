@@ -13,3 +13,7 @@ description = "Know more about my other projects"
 [Apizee](/projects/reactnative/)            |  [React](/projects/reactnative/)
 :-------------------------:|:-------------------------:
 [![APIRTC logo](/img/logo-apiRTC-light.webp)](/projects/reactnative/)  |  [![React logo](/img/react.png)](/projects/reactnative/)
+
+# Big data and game of life
+
+[Explore my world](/projects/gameoflife/)
