@@ -28,10 +28,9 @@ span {
 .control {
     padding: .75em;
     border-radius: 5px;
-    border: none;    
-    background: linear-gradient(
-        to bottom right,
-        #ffa86a, #ffa86a);
+    border: none;
+    background: linear-gradient(to bottom right,
+            #ffa86a, #ffa86a);
 }
 
 td.dead {
@@ -43,7 +42,9 @@ td.live {
     border-radius: 10px;
 }
 
-.labelSpeed, .actualGameSpeed, .w{
+.labelSpeed,
+.actualGameSpeed,
+.w {
     color: white;
 }
 
@@ -58,4 +59,9 @@ td.live {
 
 .explication {
     color: white;
+}
+
+.controlsButtons {
+    display: flex;
+    justify-content:space-around
 }
