@@ -6,6 +6,8 @@ var playing = false;
 var grid = new Array(rows);
 var nextGrid = new Array(rows);
 
+var gridContainer = document.getElementById('gridContainer');
+
 //Game speed button
 var speedToogle = document.getElementById("speed");
 var printGameSpeed = document.getElementById("actualGameSpeed");
@@ -46,19 +48,49 @@ function initialize() {
     setupControlButtons();
 }
 
+function deleteAll() {
+    while (gridContainer.firstChild) {
+        gridContainer.removeChild(gridContainer.lastChild);
+    }
+}
+
 // Lay out the board
 function createTable() {
-    var gridContainer = document.getElementById('gridContainer');
+    let cell;
     if (!gridContainer) {
         // Throw error
         console.error("Problem: No div for the drid table!");
     }
     var table = document.createElement("table");
+    table.addEventListener("wheel", (event) => {
+        event.preventDefault();
+
+        if (event.deltaY < 0) {
+            console.log("Dezoom")
+            rows = rows + 10
+            cols = cols + 10
+            /*if(rows > 35) {
+                //cell.style.width = (screen.width/2) / rows
+                table.style.tableLayout = "fixed"
+                table.style.width = screen.width/2
+                table.style.height = table.style.width
+                console.log("setwidth")
+            }*/
+        }
+        if(rows <= 10 || cols <= 10) return;
+        if (event.deltaY > 0) {
+            console.log("Zoom")
+            rows = rows - 10
+            cols = cols - 10
+        }
+        deleteAll()
+        initialize()
+    })
 
     for (var i = 0; i < rows; i++) {
         var tr = document.createElement("tr");
         for (var j = 0; j < cols; j++) {//
-            var cell = document.createElement("td");
+            cell = document.createElement("td");
             cell.setAttribute("id", i + "_" + j);
             cell.setAttribute("class", "dead");
             cell.onclick = cellClickHandler;
@@ -268,7 +300,7 @@ export default function createElement(rows, cols, grid, pattern, start = [0, 0])
             i++
         })
     });
-    if (maxLarg+1 > rows - start[0] || maxLong+1 > cols - start[1]) {
+    if (maxLarg + 1 > rows - start[0] || maxLong + 1 > cols - start[1]) {
         console.log("IMPOSSINLE A PLACER")
     }
 
@@ -276,8 +308,8 @@ export default function createElement(rows, cols, grid, pattern, start = [0, 0])
     let cell = '';
     let l = 0
     let k = 0
-    for (let i = start[0]; i != start[0] + maxLong+1; i++) {
-        for (let j = start[1]; j != start[1] + maxLarg+1; j++) {
+    for (let i = start[0]; i != start[0] + maxLong + 1; i++) {
+        for (let j = start[1]; j != start[1] + maxLarg + 1; j++) {
             let test = new Array(l, k)
             pattern.forEach(element => {
                 if (element[0] == k && element[1] == l) {
@@ -295,13 +327,13 @@ export default function createElement(rows, cols, grid, pattern, start = [0, 0])
 }
 
 function gliderHandler() {
-    let pattern = [[0,0],[0,1],[0,2],[1,2],[2,1]]
-    createElement(rows, cols, grid, pattern, [rows-3, 0])
+    let pattern = [[0, 0], [0, 1], [0, 2], [1, 2], [2, 1]]
+    createElement(rows, cols, grid, pattern, [rows - 3, 0])
 }
 
 function spaceshipHandler() {
     let pattern = [[0, 1], [0, 4], [1, 0], [2, 0], [2, 4], [3, 0], [3, 1], [3, 2], [3, 3]]
-    createElement(rows, cols, grid, pattern, [rows/2, cols-5])
+    createElement(rows, cols, grid, pattern, [rows / 2, cols - 5])
 }
 
 // Start everything
