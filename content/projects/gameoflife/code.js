@@ -13,6 +13,7 @@ var speedToogle = document.getElementById("speed");
 var printGameSpeed = document.getElementById("actualGameSpeed");
 
 var timer;
+var timer2;
 var reproductionTime = 50;
 
 function initializeGrids() {
@@ -77,7 +78,7 @@ function createTable() {
                 console.log("setwidth")
             }*/
         }
-        if(rows <= 10 || cols <= 10) return;
+        if (rows <= 10 || cols <= 10) return;
         if (event.deltaY > 0) {
             console.log("Zoom")
             rows = rows - 10
@@ -174,6 +175,7 @@ function clearButtonHandler() {
     var startButton = document.getElementById('start');
     startButton.innerHTML = "Start";
     clearTimeout(timer);
+    clearInterval(timer2);
 
     var cellsList = document.getElementsByClassName("live");
     // convert to array first, otherwise, you're working on a live node list
@@ -191,6 +193,8 @@ function clearButtonHandler() {
 
 // start/pause/continue the game
 function startButtonHandler() {
+    console.log("reproductionTime : "+reproductionTime)
+    timer2 = setInterval(randomP, reproductionTime * 100)
     printGameSpeed.textContent = speedToogle.value;
     reproductionTime = speedToogle.value;
     if (playing) {
@@ -198,11 +202,26 @@ function startButtonHandler() {
         playing = false;
         this.innerHTML = "Continue";
         clearTimeout(timer);
+        clearInterval(timer2);
+
     } else {
         console.log("Continue the game");
         playing = true;
         this.innerHTML = "Pause";
         play();
+    }
+}
+function randomP() {
+    console.log("Rndom")
+    for (var i = 0; i < rows; i++) {
+        for (var j = 0; j < cols; j++) {
+            var isLive = Math.round(Math.random());
+            if (isLive == 1) {
+                var cell = document.getElementById(i + "_" + j);
+                cell.setAttribute("class", "live");
+                grid[i][j] = 1;
+            }
+        }
     }
 }
 
