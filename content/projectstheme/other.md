@@ -18,4 +18,4 @@ description = "Know more about my other projects"
 
 [Explore my world](/projects/gameoflife/)
 
-or [my computer !](/projects/ishealiv/)
+or [my computer !](/projects/ishealive/)
