@@ -17,3 +17,5 @@ description = "Know more about my other projects"
 # Big data and game of life
 
 [Explore my world](/projects/gameoflife/)
+
+or [my computer !](/projects/ishealive/)
