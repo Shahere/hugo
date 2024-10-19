@@ -2,16 +2,16 @@
 <html lang="en">
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
   
-    <title>Project :: Savinien Barbotaud</title>
+    <title>Project - Big Data :: Savinien Barbotaud</title>
   
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="Know more about my projects" />
+<meta name="description" content="Big data" />
 <meta name="keywords" content="" />
 
   <meta name="robots" content="noodp" />
 
-<link rel="canonical" href="http://localhost:1313/posts/project/" />
+<link rel="canonical" href="http://localhost:1313/projects/gameoflife/" />
 
 
 
@@ -42,9 +42,9 @@
 
 <meta property="og:locale" content="en" />
 <meta property="og:type" content="article" />
-<meta property="og:title" content="Project">
-<meta property="og:description" content="Know more about my projects" />
-<meta property="og:url" content="http://localhost:1313/posts/project/" />
+<meta property="og:title" content="Project - Big Data">
+<meta property="og:description" content="Big data" />
+<meta property="og:url" content="http://localhost:1313/projects/gameoflife/" />
 <meta property="og:site_name" content="Savinien Barbotaud" />
 
   
@@ -55,7 +55,7 @@
 <meta property="og:image:height" content="627">
 
 
-  <meta property="article:published_time" content="2023-01-05 00:00:00 &#43;0000 UTC" />
+  <meta property="article:published_time" content="2024-04-23 00:00:00 &#43;0000 UTC" />
 
 
 
@@ -156,9 +156,9 @@
     
 <article class="post">
   <h1 class="post-title">
-    <a href="http://localhost:1313/posts/project/">Project</a>
+    <a href="http://localhost:1313/projects/gameoflife/">Project - Big Data</a>
   </h1>
-  <div class="post-meta"><time class="post-date">2023-01-05[Updated::2023-01-05]</time></div>
+  <div class="post-meta"><time class="post-date">2024-04-23[Updated::2024-04-23]</time></div>
 
   
   
@@ -167,17 +167,46 @@
   
 
   <div class="post-content"><div>
-        <p>Contributing to open-source project is a way to thanks them ♥️</p>
-<blockquote>
-<p><a href="/projectstheme/other/">Other</a></p>
-</blockquote>
-<blockquote>
-<p><a href="/projectstheme/website/">Website</a></p>
-</blockquote>
-<blockquote>
-<p><a href="/projectstheme/games/">Game</a></p>
-</blockquote>
+        <link rel="stylesheet" href="life.css">
+<div id="gridContainer">
 
+</div>
+
+<div class="controls">
+    <div class="controlsButtons">
+        <button id="start" class="control"><span>Start</span></button>
+        <button id="clear" class="control"><span>Clear</span></button>
+        <button id="random" class="control"><span>Random</span></button>
+    </div>
+    <div class="gameSpeed">
+        <input type="range" id="speed" max="500" min="1" name="Game speed" oninput="onRangeChange(this.value)">
+        <div class="gameSpeedDiv">
+            <label for="labelSpeed" class="labelSpeed">Game speed : </label>
+            <p id="actualGameSpeed" class="actualGameSpeed"></p>
+        </div>
+    </div>
+
+    <div class="figures">
+        <p class="w">Explore the figures designed by the creators</p>
+        <button class="glider control" id="glider"><span>Glider</span></button>
+        <button class="spaceship control" id="spaceship"><span>Spaceship</span></button>
+    </div>
+</div>
+
+<div class="explication">
+    <h1>The game of life and Big Data</h1>
+    <p>My world is made up of cells. Black or white, 1 or 0, dead or alive...</p>
+    <p>Each generation, an iteration and a period of evolution and use of data</p>
+    <p>Big Data fuels the understanding of complex and living systems. This last human invention was already present before our arrival on earth.</p>
+    <p>In the end, would we be here without Big Data?</p>
+</div>
+
+<script>
+    function onRangeChange(value) {
+        document.getElementById("actualGameSpeed").innerHTML = value + " ms";
+    }
+</script>
+<script src="code.js" type="module"></script>
       </div></div>
 
   
