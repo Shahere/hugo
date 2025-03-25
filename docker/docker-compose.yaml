@@ -8,27 +8,7 @@ services:
       - savinien
     volumes:
       - "../:/src"
-  caddy:
-    build:
-        context: .
-        dockerfile: Dockerfile
-    container_name: caddy
-    networks:
-      - savinien
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - ./Caddyfile:/etc/caddy/Caddyfile
-      - caddy_data:/data
-      - caddy_config:/config
-    environment:
-      - ACME_AGREE=true
-    restart: unless-stopped
-
-volumes:
-  caddy_data:
-  caddy_config:
 
 networks:
   savinien:
+    external: true
