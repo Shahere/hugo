@@ -65,9 +65,21 @@ or my computer !</description>
       
       <guid>http://localhost:1313/projectstheme/website/</guid>
       <description>This website Check the souce code !
+Three JS website An interactive and fun way to display things. Learn more here !
+Your browser does not support the video tag. Fullpage website Scroll one page to one page at the time
 Netyparneo </description>
       <content>&lt;h1 id=&#34;this-website&#34;&gt;This website&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://github.com/Shahere/hugo&#34;&gt;Check the souce code !&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;a-hrefhttpsthreesavinienbarbotaudfr-target_blankthree-js-websitea&#34;&gt;&lt;a href=&#34;https://three.savinienbarbotaud.fr&#34; target=&#34;_blank&#34;&gt;Three JS website&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;An interactive and fun way to display things. &lt;a href=&#34;http://localhost:1313/projects/threejs&#34;&gt;Learn more here !&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;https://three.savinienbarbotaud.fr&#34; target=&#34;_blank&#34;&gt;
+    &lt;video autoplay replay&gt;
+      &lt;source src=&#34;http://localhost:1313/video/three.mp4&#34; type=&#34;video/mp4&#34;&gt;
+      Your browser does not support the video tag.
+    &lt;/video&gt; 
+&lt;/a&gt;
+&lt;h2 id=&#34;a-hrefhttpsfullpagesavinienbarbotaudfr-target_blankfullpage-websitea&#34;&gt;&lt;a href=&#34;https://fullpage.savinienbarbotaud.fr&#34; target=&#34;_blank&#34;&gt;Fullpage website&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Scroll one page to one page at the time&lt;/p&gt;
 &lt;h1 id=&#34;netyparneo&#34;&gt;Netyparneo&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;http://localhost:1313/projects/netyparneo/&#34;&gt;&lt;img alt=&#34;netyparneo&#34; src=&#34;http://localhost:1313/img/nety.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 </content>
