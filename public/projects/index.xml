@@ -8,6 +8,20 @@
     <language>en</language>
     <lastBuildDate>Sat, 26 Apr 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Project - Threejs</title>
+      <link>http://localhost:1313/projects/threejs/</link>
+      <pubDate>Sat, 26 Apr 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/projects/threejs/</guid>
+      <description>Threejs Coming soon&amp;hellip;
+[three.savinienbarbotaud.fr](waiting room)</description>
+      <content>&lt;h1 id=&#34;threejs&#34;&gt;Threejs&lt;/h1&gt;
+&lt;p&gt;Coming soon&amp;hellip;&lt;/p&gt;
+&lt;p&gt;[three.savinienbarbotaud.fr](waiting room)&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Project - Big Data</title>
       <link>http://localhost:1313/projects/gameoflife/</link>
       <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
