@@ -18,4 +18,4 @@ Currently focus on real-time communication developpement at [Apizee](https://www
 - My Github personal repo: https://github.com/Shahere
 - My Github professional repo: https://github.com/SavinienBarbotaud
 
-You can reach me at sbarbota@enssat.fr
+You can reach me at savinienbarbotaud@gmail.com
